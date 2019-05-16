@@ -7,14 +7,14 @@ A Press é uma plataforma online que permitirá o compartilhamento de textos em 
 
 ### Ferramentas utilizadas
 
-[Jquery](https://jquery.com/)
+- [Jquery](https://jquery.com/)
 
-[Bootstrap 4.1](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
+- [Bootstrap 4.1](https://getbootstrap.com.br/docs/4.1/getting-started/introduction/)
 
-[Gulp](https://gulpjs.com/)
+- [Gulp](https://gulpjs.com/)
 
-[BrosweSync](https://www.browsersync.io/)
+- [BrosweSync](https://www.browsersync.io/)
 
-[NPM](https://www.npmjs.com/)
+- [NPM](https://www.npmjs.com/)
 
 ###### TODOS OS DIREITOS RESERVADOS A PRESS
